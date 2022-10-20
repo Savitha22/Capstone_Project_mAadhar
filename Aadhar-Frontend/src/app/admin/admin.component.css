@@ -1,0 +1,12 @@
+.image{
+    height:39em; background-size:cover; width:auto;
+    background-image:url('aadhar.jpg');
+    background-position:50% 50%;
+  }
+
+  input.ng-invalid.ng-touched {
+    border: 1px solid red;
+  }
+
+
+
